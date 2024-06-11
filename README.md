@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**azinoveva/azinoveva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Aleks**, a passionate developer, researcher, and perpetual learner. With a background that spans across mathematical optimization, software engineering, and cognitive neuroscience, I am driven by the desire to blend these fields to foster innovation and discovery.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+From applied mathematics in energty sector and software engineering to cognitive neuroscience, my journey has been anything but linear. While I've explored game theory, AI ethics, and even produced educational video content, my true love has always been understanding the human brain. I blend data science with neuroscience, developing pipelines for neural data, ensuring top-notch lab equipment, and guiding participants through various studies.
+
+My constant drive is an insatiable curiosity and a desire to innovate and connect. I thrive on tackling new challenges. Ready to bring tech solutions to life and discover new layers of complexities, I'm always on the lookout for the next exciting opportunity.
+
+## 🌟 I'm currently into...
+
+- **Technical Skills**: Python, MATLAB, PHP, TALL Stack, MariaDB, JavaScript, Adobe Creative Suite, Final Cut, DaVinci Resolve
+- **Languages**: German (fluent), English (fluent), Russian (native speaker)... hopefully more to come.
+- **Hobbies**: Kaggle competitions, birdwatching, fencing, bike repairs 🚴🏼‍♀️
+
+- **Crows**: I adore crows and corvids. Please feel free to ask me for photos or stories about my local gang! 🐦‍⬛
+
+---
+
+## 📈 My Projects
+
+Here, you'll find a selection of my projects and contributions. Feel free to explore and provide feedback!
+
+### 🧠 Neuroscience and Cognitive Science
+- [BIDSifying Tangled Data](https://github.com/azinoveva/memoreeg2bids)
+
+### 💡 Machine Learning and Optimization
+- [Semantic Search Engine for Social Services Map](https://github.com/azinoveva/social_ai)
+- [Multi-Objective Renewable Energy Network Optimization](https://github.com/azinoveva/mouc_vre) (currently private; message me to get more details)
+
+### 👩🏽‍💻 Kaggle
+- [Picking the best banana](https://www.kaggle.com/code/azinoveva/banana-quality-exploratory-ppii)🍌
+- [Exploring breast cancer](https://www.kaggle.com/code/azinoveva/wisconsin-breast-cancer-exploratory-ppii)
+---
+
+## 📫 Get in Touch
+
+I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out!
+
+- **Email**: [aleksandra.zinoveva@icloud.com](mailto:aleksandra.zinoveva@icloud.com)
+- **LinkedIn**: [Aleksandra Zinoveva](https://www.linkedin.com/in/aleksandrazinoveva/)
+- **Telegram**: @alisenz
