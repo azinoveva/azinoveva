@@ -4,7 +4,7 @@ I'm **Aleks**, a passionate developer, researcher, and perpetual learner. With a
 
 ## 🚀 About Me
 
-From applied mathematics in energty sector and software engineering to cognitive neuroscience, my journey has been anything but linear. While I've explored game theory, AI ethics, and even produced educational video content, my true love has always been understanding the human brain. I blend data science with neuroscience, developing pipelines for neural data, ensuring top-notch lab equipment, and guiding participants through various studies.
+From applied mathematics in energy sector and software engineering to cognitive neuroscience, my journey has been anything but linear. While I've explored game theory, AI ethics, and even produced educational video content, my true love has always been understanding the human brain. I blend data science with neuroscience, developing pipelines for neural data, ensuring top-notch lab equipment, and guiding participants through various studies.
 
 My constant drive is an insatiable curiosity and a desire to innovate and connect. I thrive on tackling new challenges. Ready to bring tech solutions to life and discover new layers of complexities, I'm always on the lookout for the next exciting opportunity.
 
