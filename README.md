@@ -40,4 +40,3 @@ I'm always open to new opportunities, collaborations, and discussions. Feel free
 
 - **Email**: [aleksandra.zinoveva@icloud.com](mailto:aleksandra.zinoveva@icloud.com)
 - **LinkedIn**: [Aleksandra Zinoveva](https://www.linkedin.com/in/aleksandrazinoveva/)
-- **Telegram**: @alisenz
