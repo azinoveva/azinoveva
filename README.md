@@ -30,8 +30,8 @@ Here, you'll find a selection of my projects and contributions. Feel free to exp
 - [Multi-Objective Renewable Energy Network Optimization](https://github.com/azinoveva/mouc_vre) (currently private; message me to get more details)
 
 ### 👩🏽‍💻 Kaggle
-- [Picking the best banana](https://www.kaggle.com/code/azinoveva/banana-quality-exploratory-ppii)🍌
 - [Exploring breast cancer](https://www.kaggle.com/code/azinoveva/wisconsin-breast-cancer-exploratory-ppii)
+- [Picking the best banana](https://www.kaggle.com/code/azinoveva/banana-quality-exploratory-ppii)🍌
 ---
 
 ## 📫 Get in Touch
