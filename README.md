@@ -20,7 +20,7 @@ My constant drive is an insatiable curiosity and a desire to innovate and connec
 
 ## 📈 My Projects
 
-Here, you'll find a selection of my projects and contributions. Feel free to explore and provide feedback!
+Here, you'll find snippets of my projects and contributions. Feel free to explore and provide feedback!
 
 ### 🧠 Neuroscience and Cognitive Science
 - [BIDSifying Tangled Data](https://github.com/azinoveva/memoreeg2bids)
