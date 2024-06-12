@@ -10,7 +10,7 @@ My constant drive is an insatiable curiosity and a desire to innovate and connec
 
 ## 🌟 I'm currently into...
 
-- **Technical Skills**: Python, MATLAB, PHP, TALL Stack, MariaDB, JavaScript, Adobe Creative Suite, Final Cut, DaVinci Resolve
+- **Technical Skills**: Python, MATLAB, PHP, Final Cut, DaVinci Resolve
 - **Languages**: German (fluent), English (fluent), Russian (native speaker)... hopefully more to come.
 - **Hobbies**: Kaggle competitions, birdwatching, fencing, bike repairs 🚴🏼‍♀️
 
