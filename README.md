@@ -12,7 +12,7 @@ My constant drive is an insatiable curiosity and a desire to innovate and connec
 
 - **Technical Skills**: Python, MATLAB, PHP, Final Cut, DaVinci Resolve
 - **Languages**: German (fluent), English (fluent), Russian (native speaker)... hopefully more to come.
-- **Hobbies**: Kaggle competitions, birdwatching, fencing, bike repairs 🚴🏼‍♀️
+- **Hobbies**: Birdwatching, fencing, bike repairs 🚴🏼‍♀️
 
 - **Crows**: I adore crows and corvids. Please feel free to ask me for photos or stories about my local gang! 🐦‍⬛
 
