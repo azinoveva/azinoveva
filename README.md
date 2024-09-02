@@ -27,7 +27,7 @@ Here, you'll find snippets of my projects and contributions. Feel free to explor
 
 ### 💡 Machine Learning and Optimization
 - [Semantic Search Engine for Social Services Map](https://github.com/azinoveva/social_ai)
-- [Multi-Objective Renewable Energy Network Optimization](https://github.com/azinoveva/mouc_vre) (currently private; message me to get more details)
+- [Multi-Objective Renewable Energy Network Optimization](https://github.com/azinoveva/mouc_vre) (feel free to message me to get more details about the maths behind)
 
 ### 👩🏽‍💻 Kaggle
 - [Exploring breast cancer](https://www.kaggle.com/code/azinoveva/wisconsin-breast-cancer-exploratory-ppii)
