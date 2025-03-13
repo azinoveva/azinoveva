@@ -15,23 +15,7 @@ My constant drive is an insatiable curiosity and a desire to innovate and connec
 - **Hobbies**: Birdwatching, fencing, bike repairs 🚴🏼‍♀️
 
 - **Crows**: I adore crows and corvids. Please feel free to ask me for photos or stories about my local gang! 🐦‍⬛
-
----
-
-## 📈 My Projects
-
-Here, you'll find snippets of my projects and contributions. Feel free to explore and provide feedback!
-
-### 🧠 Neuroscience and Cognitive Science
-- [BIDSifying Tangled Data](https://github.com/azinoveva/memoreeg2bids)
-
-### 💡 Machine Learning and Optimization
-- [Semantic Search Engine for Social Services Map](https://github.com/azinoveva/social_ai)
-- [Multi-Objective Renewable Energy Network Optimization](https://github.com/azinoveva/mouc_vre) (message me to find out more about the maths behind)
-
-### 👩🏽‍💻 Kaggle
-- [Exploring breast cancer](https://www.kaggle.com/code/azinoveva/wisconsin-breast-cancer-exploratory-ppii)
-- [Picking the best banana](https://www.kaggle.com/code/azinoveva/banana-quality-exploratory-ppii)🍌
+- 
 ---
 
 ## 📫 Get in Touch
