@@ -1,26 +1,25 @@
 # Hi there 👋
 
-I'm **Aleks**, a passionate developer, researcher, and perpetual learner. With a background that spans across mathematical optimization, software engineering, and cognitive neuroscience, I am driven by the desire to blend these fields to foster innovation and discovery.
+I'm **Aleks**, an AI solutions developer who loves building intelligent applications and untangling complex data challenges. With a background spanning mathematical optimization, cognitive neuroscience, and software engineering, I specialize in turning technical problems into practical solutions.
 
 ## 🚀 About Me
+My journey from applied mathematics and neuroscience research to AI solutions development has been driven by curiosity and a passion for solving real-world problems. I've worked on everything from semantic search engines for social services to large-scale neuroimaging data pipelines, always focusing on making complex systems accessible and functional.
 
-From applied mathematics in energy sector and software engineering to cognitive neuroscience, my journey has been anything but linear. While I've explored game theory, AI ethics, and even produced educational video content, my true love has always been understanding the human brain. I blend data science with neuroscience, developing pipelines for neural data, ensuring top-notch lab equipment, and guiding participants through various studies.
+Currently at N3XTCODER, I deliver end-to-end AI projects for government initiatives and social impact organizations. Whether it's processing 500+ GB of research data, building rapid prototypes, or synthesizing hundreds of technical sources into educational content, I thrive on connecting disparate pieces into something meaningful.
 
-My constant drive is an insatiable curiosity and a desire to innovate and connect. I thrive on tackling new challenges. Ready to bring tech solutions to life and discover new layers of complexities, I'm always on the lookout for the next exciting opportunity.
+## 🛠️ Tech Stack
+- **AI/ML & NLP**: PyTorch, LangChain, HuggingFace, Ollama, Anthropic, OpenAI, semantic search
+- **Development**: Python, FastAPI, Laravel, TALL Stack, JavaScript, REST APIs
+- **Data & Analytics**: Pandas, NetworkX, statistical modeling, large-scale data processing
+- **Cloud & Infrastructure**: Azure, Docker, database systems, optimization solvers
 
-## 🌟 I'm currently into...
-
-- **Technical Skills**: Python, MATLAB, PHP, Final Cut, DaVinci Resolve
-- **Languages**: German (fluent), English (fluent), Russian (native speaker)... hopefully more to come.
+## 🌟 Currently exploring...
+- **Languages**: German (fluent), English (fluent), Russian (native speaker)
 - **Hobbies**: Birdwatching, fencing, bike repairs 🚴🏼‍♀️
-
 - **Crows**: I adore crows and corvids. Please feel free to ask me for photos or stories about my local gang! 🐦‍⬛
-- 
+
 ---
-
 ## 📫 Get in Touch
-
-I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out!
-
+Always open to interesting projects, collaborations, and discussions about AI, data, or corvid intelligence!
 - **Email**: [aleksandra.zinoveva@icloud.com](mailto:aleksandra.zinoveva@icloud.com)
 - **LinkedIn**: [Aleksandra Zinoveva](https://www.linkedin.com/in/aleksandrazinoveva/)
