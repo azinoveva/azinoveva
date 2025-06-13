@@ -5,7 +5,7 @@ I'm **Aleks**, an AI solutions developer who loves building intelligent applicat
 ## 🚀 About Me
 My journey from applied mathematics and neuroscience research to AI solutions development has been driven by curiosity and a passion for solving real-world problems. I've worked on everything from semantic search engines for social services to large-scale neuroimaging data pipelines, always focusing on making complex systems accessible and functional.
 
-Currently at N3XTCODER, I deliver end-to-end AI projects for government initiatives and social impact organizations. Whether it's processing 500+ GB of research data, building rapid prototypes, or synthesizing hundreds of technical sources into educational content, I thrive on connecting disparate pieces into something meaningful.
+Currently at [N3XTCODER](https://n3xtcoder.org/), I deliver end-to-end AI projects for government initiatives and social impact organizations. Whether it's processing 500+ GB of research data, building rapid prototypes, or synthesizing hundreds of technical sources into educational content, I thrive on connecting disparate pieces into something meaningful.
 
 ## 🛠️ Tech Stack
 - **AI/ML & NLP**: PyTorch, LangChain, HuggingFace, Ollama, Anthropic, OpenAI, semantic search
